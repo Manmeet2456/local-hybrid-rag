@@ -6,9 +6,6 @@ A fully local, privacy-first Retrieval-Augmented Generation (RAG) assistant for 
 
 ## 📸 Screenshots & Demo
 
-### 💬 Interactive Chat & Source Citations
-![Local RAG Chat](assets/chat_demo.png)
-
 ### 📊 Document Management & Dashboard
 ![Dashboard](assets/dashboard.png)
 
