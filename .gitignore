@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+backend/venv/
+frontend/front_end/
+.venv/
+env/
+ENV/
+
+# Vector DB data and storage
+backend/qdrant_data/
+qdrant_data/
+*.lock
+
+# Uploads directory contents
+backend/uploads/*
+!backend/uploads/.gitkeep
+uploads/*
+!uploads/.gitkeep
+
+# Cache directories
+.cache/
+cache/
+D:/cache/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
